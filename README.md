@@ -1,2 +1,2 @@
 # ReactCourseApp
-ThreeHouse React Course  APP
+TreeHouse React Course  APP
